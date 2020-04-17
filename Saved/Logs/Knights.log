@@ -759,3 +759,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.17-21.27.31:148][289]LogFileHelpers: Saving map 'TitleScreen' took 0.098
 [2020.04.17-21.27.31:161][289]AssetCheck: New page: Asset Save: TitleScreen
 [2020.04.17-21.27.31:162][289]LogContentValidation: Display: Validating World /Game/PuzzleBP/Maps/TitleScreen.TitleScreen
+[2020.04.17-21.31.08:221][994]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/noahg/Downloads/Return to Menu.png)
+[2020.04.17-21.31.08:236][994]LogTexture: Display: Building textures: Return_to_Menu (AutoDXT, 1200X900)
